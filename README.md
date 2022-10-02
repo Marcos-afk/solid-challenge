@@ -40,5 +40,5 @@ yarn dev
 
 ### :heavy_check_mark: Regras de negócio
 
-- [x] Apenas usuários admin podem listar usuário
+- [x] Apenas usuários admin podem ter acesso a lista de usuários
 - [x] Email de usuário deve ser um campo único
