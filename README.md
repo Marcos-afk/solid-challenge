@@ -8,6 +8,7 @@ Desafio 02 do conteúdo estudado nas aulas do Chapter II da trilha de NodeJS do 
 - [express](https://expressjs.com/pt-br/)
 - [uuid](https://www.npmjs.com/package/uuid)
 - [nodejs](https://nodejs.org/en/docs/)
+- [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 - [typescript](https://www.typescriptlang.org/)
 - [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
 - [ts-jest](https://www.npmjs.com/package/ts-jest)
