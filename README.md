@@ -30,3 +30,15 @@ yarn install
 
 yarn dev
 ```
+
+### :heavy_check_mark: Requisitos
+
+- [x] Cadastrar usuário
+- [x] Listar usuários
+- [x] Tornar usuário admin
+- [x] Buscar usuário de forma específica
+
+### :heavy_check_mark: Regras de negócio
+
+- [x] Apenas usuários admin podem listar usuário
+- [x] Email de usuário deve ser um campo único
